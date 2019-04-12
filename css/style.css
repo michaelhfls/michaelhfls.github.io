@@ -8,4 +8,10 @@ h1 {
 
 p {
   color: #1839F2;
+
+}
+
+#secondary {
+  color: pink;
+  font-size: 8px;
 }
